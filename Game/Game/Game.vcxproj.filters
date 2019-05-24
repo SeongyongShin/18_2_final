@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="99.Default">
+      <UniqueIdentifier>{9cb91b1a-8580-4539-b9ef-b9d26329a546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\00.Main">
+      <UniqueIdentifier>{479d98ea-afe1-4f64-9cde-9ef560e760cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\01.DirectX">
+      <UniqueIdentifier>{170de124-158b-4f08-b428-dd800377b1c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\02.Clock">
+      <UniqueIdentifier>{42710f21-ca05-4a5f-9f45-15b99c8db0d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\05.TextManager">
+      <UniqueIdentifier>{69e45625-5b82-4e0a-a0ee-0092037e44a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.MainGame">
+      <UniqueIdentifier>{7dc485e5-f729-4003-bf90-3203163be18c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene">
+      <UniqueIdentifier>{906088fc-c81c-4281-a87d-162bec677ca1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.GameObject">
+      <UniqueIdentifier>{0965a04f-adf1-4d11-9d4d-f7b2cb797b57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\06.Parser">
+      <UniqueIdentifier>{998bc8c2-9ede-414f-a51d-13453e17da64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\06.Parser\00.Default">
+      <UniqueIdentifier>{0363c6db-2f95-40e2-a744-941ad508ab18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\07.GUI">
+      <UniqueIdentifier>{23785bfe-c1e9-436c-af6c-0a7259ae7ab1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\06.Parser\01.SpriteParser">
+      <UniqueIdentifier>{944c0969-e94e-4068-8fba-f332307baadf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\06.Parser\02.SoundParser">
+      <UniqueIdentifier>{80f844e0-c8f7-46c3-a8ea-8abd17aaa2ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component">
+      <UniqueIdentifier>{d8a42f76-f07e-48de-b199-db6adee706c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소">
+      <UniqueIdentifier>{cd306eb0-471b-4f4b-8c02-f110ca8afa1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\03.SoundComponent">
+      <UniqueIdentifier>{fa002209-2337-48f3-b657-58b758a7f8cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\00.SpriteComponent">
+      <UniqueIdentifier>{cd5d1790-7577-43db-b9cd-cdfac0416f9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\01.SubstantialComponent">
+      <UniqueIdentifier>{eeedc187-1539-4eb2-a18c-2d66edaa379b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\01.SubstantialComponent\01.Rectangle">
+      <UniqueIdentifier>{5174c223-4a12-4051-b418-ed25cd343b6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\01.SubstantialComponent\02.Circle">
+      <UniqueIdentifier>{5946a5c7-08b5-4961-954b-50a5671820ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\01.SubstantialComponent\03.Custom">
+      <UniqueIdentifier>{d9e484a6-d10d-41fb-86a5-efcd26c249f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\02.TextComponent">
+      <UniqueIdentifier>{20f0b9e7-c58e-4a67-8ffb-a9423015e903}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\03.Resource">
+      <UniqueIdentifier>{e7e7b0d6-9aa3-4252-80a9-f250c648f149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\03.Resource\03.Image">
+      <UniqueIdentifier>{c625f279-9950-4605-9912-17d9f0ca4025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\03.Resource\03.Image\SpriteResource">
+      <UniqueIdentifier>{52265d57-dbd0-4858-b793-61593e7dc5d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\03.Resource\03.Image\SpriteResource\Texture">
+      <UniqueIdentifier>{abc19d4f-dc7b-4947-886c-ccbc11b3bdc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\03.Resource\03.Image\SpriteResource\Texture\Sprite">
+      <UniqueIdentifier>{fe13d826-2ab7-416d-a428-e4a5bc78aff5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\03.Resource\04.Sound">
+      <UniqueIdentifier>{4816ec79-4b83-43f4-ae2c-4a660f74df83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\06.Parser\03.WindowParser">
+      <UniqueIdentifier>{4a5c8db7-862d-4dd6-86e9-5e799863d6e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene\00.Intro">
+      <UniqueIdentifier>{1986bec2-aae2-499a-b58e-2d1b9726521d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene\01.MainMenu">
+      <UniqueIdentifier>{fda6fa0e-0a90-4e59-ab5a-98f8a1d5c32e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor">
+      <UniqueIdentifier>{97c55c61-85d9-40a1-ad77-892ae462fe94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Scene\02.Stage">
+      <UniqueIdentifier>{4aa5f5a7-d834-4537-9e52-957287ae2419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\Character">
+      <UniqueIdentifier>{281ab62b-ede2-4a14-8cd6-608899411236}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\Bullet">
+      <UniqueIdentifier>{844fe1b7-1c76-40a6-b6d3-f3cff7c9331d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\Character\Player">
+      <UniqueIdentifier>{07d80c34-3a6e-4802-a86a-b71cd00e16c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\Character\Enemy">
+      <UniqueIdentifier>{29f9105b-36fb-40a4-8f79-fc6c49ab70a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\Button">
+      <UniqueIdentifier>{4e93191a-30ae-4bc8-b768-8d1e0c76435e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Tile">
+      <UniqueIdentifier>{5b29ea82-414b-4595-a417-7101a6025e21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\MachineGun">
+      <UniqueIdentifier>{660a4747-5ade-4b1a-a755-2aa24b6fc815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\필수요소\01.SubstantialComponent\00.Dot">
+      <UniqueIdentifier>{eaf25b92-52c4-473b-863c-06cb5cd2f7ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\CAS">
+      <UniqueIdentifier>{53b61b43-bc5e-4f1e-b733-2c9f93abeb0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\Tank">
+      <UniqueIdentifier>{3ae0d9eb-30cf-4563-b344-13a1b6447d35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\Grenade">
+      <UniqueIdentifier>{a2eeecae-4f9e-4407-b104-c228fb0d0351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Actor\HPBar">
+      <UniqueIdentifier>{07c24403-8827-4716-9de5-f5f7b034989d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Scene.cpp">
+      <Filter>01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct.cpp">
+      <Filter>99.Default\01.DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>99.Default\02.Clock</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>99.Default\00.Main</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundResource.cpp">
+      <Filter>99.Default\03.Resource\04.Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>01.Scene\01.MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>99.Default\05.TextManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>99.Default\03.Resource\03.Image\SpriteResource\Texture\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="tinystr.cpp">
+      <Filter>99.Default\06.Parser\00.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml.cpp">
+      <Filter>99.Default\06.Parser\00.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlerror.cpp">
+      <Filter>99.Default\06.Parser\00.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxmlparser.cpp">
+      <Filter>99.Default\06.Parser\00.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteParser.cpp">
+      <Filter>99.Default\06.Parser\01.SpriteParser</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteResource.cpp">
+      <Filter>99.Default\03.Resource\03.Image\SpriteResource</Filter>
+    </ClCompile>
+    <ClCompile Include="CTexture.cpp">
+      <Filter>99.Default\03.Resource\03.Image\SpriteResource\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="IComponent.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="2DSpriteComponent.cpp">
+      <Filter>Component\필수요소\00.SpriteComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="SubstantialComponent.cpp">
+      <Filter>Component\필수요소\01.SubstantialComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>03.GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleComponent.cpp">
+      <Filter>Component\필수요소\01.SubstantialComponent\01.Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>01.Scene\02.Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterComponent.cpp">
+      <Filter>Component\Actor\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterRenderComponent.cpp">
+      <Filter>Component\Actor\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerComponent.cpp">
+      <Filter>Component\Actor\Character\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletComponent.cpp">
+      <Filter>Component\Actor\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleComponent.cpp">
+      <Filter>Component\필수요소\01.SubstantialComponent\02.Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonComponent.cpp">
+      <Filter>Component\Actor\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyComponent.cpp">
+      <Filter>Component\Actor\Character\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundComponent.cpp">
+      <Filter>Component\필수요소\03.SoundComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="TileComponent.cpp">
+      <Filter>Component\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>01.Scene\00.Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="MachineGun.cpp">
+      <Filter>Component\Actor\MachineGun</Filter>
+    </ClCompile>
+    <ClCompile Include="TextComponent.cpp">
+      <Filter>Component\필수요소\02.TextComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletCheckSystem.cpp" />
+    <ClCompile Include="Camera.cpp">
+      <Filter>01.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="HPBarComponent.cpp">
+      <Filter>Component\Actor\HPBar</Filter>
+    </ClCompile>
+    <ClCompile Include="TankComponent.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="direct.h">
+      <Filter>99.Default\01.DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="Clock.h">
+      <Filter>99.Default\02.Clock</Filter>
+    </ClInclude>
+    <ClInclude Include="Defines.h">
+      <Filter>99.Default\00.Main</Filter>
+    </ClInclude>
+    <ClInclude Include="UserFunction.h">
+      <Filter>99.Default\00.Main</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectHeader.h">
+      <Filter>99.Default\00.Main</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundResource.h">
+      <Filter>99.Default\03.Resource\04.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>01.Scene\01.MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>00.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>99.Default\05.TextManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>99.Default\03.Resource\03.Image\SpriteResource\Texture\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="tinystr.h">
+      <Filter>99.Default\06.Parser\00.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml.h">
+      <Filter>99.Default\06.Parser\00.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteParser.h">
+      <Filter>99.Default\06.Parser\01.SpriteParser</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteResource.h">
+      <Filter>99.Default\03.Resource\03.Image\SpriteResource</Filter>
+    </ClInclude>
+    <ClInclude Include="CTexture.h">
+      <Filter>99.Default\03.Resource\03.Image\SpriteResource\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="IComponent.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="2DSpriteComponent.h">
+      <Filter>Component\필수요소\00.SpriteComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="SubstantialComponent.h">
+      <Filter>Component\필수요소\01.SubstantialComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>03.GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleComponent.h">
+      <Filter>Component\필수요소\01.SubstantialComponent\01.Rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>01.Scene\02.Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterComponent.h">
+      <Filter>Component\Actor\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterRenderComponent.h">
+      <Filter>Component\Actor\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerComponent.h">
+      <Filter>Component\Actor\Character\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletComponent.h">
+      <Filter>Component\Actor\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleComponent.h">
+      <Filter>Component\필수요소\01.SubstantialComponent\02.Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonComponent.h">
+      <Filter>Component\Actor\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyComponent.h">
+      <Filter>Component\Actor\Character\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundComponent.h">
+      <Filter>Component\필수요소\03.SoundComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="TileComponent.h">
+      <Filter>Component\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>01.Scene\00.Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="MachineGun.h">
+      <Filter>Component\Actor\MachineGun</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterEnum.h">
+      <Filter>Component\Actor\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="TextComponent.h">
+      <Filter>Component\필수요소\02.TextComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletCheckSystem.h" />
+    <ClInclude Include="Camera.h">
+      <Filter>01.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="HPBarComponent.h">
+      <Filter>Component\Actor\HPBar</Filter>
+    </ClInclude>
+    <ClInclude Include="TankComponent.h" />
+  </ItemGroup>
+</Project>

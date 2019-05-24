@@ -1,0 +1,29 @@
+<SpawnList>
+	<Object>
+		<Type>EnemyCharacter</Type>
+		<Time>10</Time>
+		<X></X>
+		<Y></Y>
+	</Object>
+
+	<Object>
+		<Type>EnemyCharacter</Type>
+		<Time>10</Time>
+		<X></X>
+		<Y></Y>
+	</Object>
+	
+	<Object>
+		<Type>EnemyCharacter</Type>
+		<Time>10</Time>
+		<X></X>
+		<Y></Y>
+	</Object>
+
+	<Object>
+		<Type>EnemyCharacter</Type>
+		<Time>10</Time>
+		<X></X>
+		<Y></Y>
+	</Object>
+</SpawnList>

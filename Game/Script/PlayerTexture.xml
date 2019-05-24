@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<PlayerTexture>
+  <Route>../\Resource\Isometric Soldier\</Route>
+  <Width>64</Width>
+  <Height>64</Height>
+  <Pivot>
+    <X>32</X>
+    <Y>16</Y>
+  </Pivot>
+  <TextureList>
+    <Texture>
+      <Status>Stop Idle</Status>
+      <Frame>3</Frame>
+      <TurnBack>1</TurnBack>
+    </Texture>
+    <Texture>
+      <Status>Stop Aim</Status>
+      <Frame>1</Frame>
+    </Texture>
+    <Texture>
+      <Status>Stop Fire</Status>
+      <Frame>1</Frame>
+    </Texture>
+    
+    <Texture>
+      <Status>Crouch</Status>
+      <Frame>1</Frame>
+    </Texture>
+    
+    <Texture>
+      <Status>Crouch Aim</Status>
+      <Frame>1</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Crouch Fire</Status>
+      <Frame>1</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Walk</Status>
+      <Frame>6</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Walk Aim</Status>
+      <Frame>6</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Walk Fire</Status>
+      <Frame>6</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Throw Granade</Status>
+      <Frame>5</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Hit 0</Status>
+        <Frame>3</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Hit Blood 0</Status>
+      <Frame>3</Frame>
+    </Texture>
+
+    <Texture>
+      <Status>Hit Explo Blood</Status>
+        <Frame>4</Frame>
+    </Texture>
+
+
+  </TextureList>
+</PlayerTexture>
